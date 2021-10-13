@@ -7,7 +7,7 @@ README = (CWD / "README.md").read_text()
 
 setup(
     name='MirrorX',
-    version='6.0.10',
+    version='6.0.11',
     packages=find_packages(),
     long_description=README,
     long_description_content_type="text/markdown",
